@@ -1,5 +1,5 @@
 # About
-This is our pet project that gonna be multiplatform bot constructor. Nowbody knows if this project ever been finished.
+This is our pet project that gonna be multiplatform bot constructor. Nobody knows if this project will ever be finished.
 # The task :D
 The task was formulated by our friend as follows:
 ```
